@@ -36,5 +36,12 @@
   },
   "dependencies": {
     "prop-types": "^15.6.0"
-  }
+  },
+  "files": [
+    "*.ts",
+    "*.md",
+    "libs",
+    "android/build.gradle",
+    "android/src"
+  ]
 }
