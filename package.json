@@ -4,7 +4,7 @@
   "main": "index.js",
   "types": "index.d.ts",
   "license": "MIT",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": "ratson/react-native-cardview-plus",
   "keywords": [
     "react",
